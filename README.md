@@ -11,6 +11,11 @@ The game is similar to Rock Paper Scissors but with King, Civilian and Beggar ca
 # Technologies Used
 HTML, CSS, Javascript
 
+# Wireframes
+![rebellionwireframe2 drawio](https://user-images.githubusercontent.com/98249558/167262403-dcb51a38-87c7-4cce-a199-c486a6388d71.png)
+![rebellionwireframe3 drawio](https://user-images.githubusercontent.com/98249558/167262420-e0dd707e-face-4dea-a820-59c354b1182b.png)
+
+
 # User Stories
 //MVP GOALS//
 
